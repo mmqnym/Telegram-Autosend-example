@@ -6,6 +6,8 @@ Display how to auto send message in telegram bot
 - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 - [schedule.py](https://schedule.readthedocs.io/en/stable/)
 
+## How to get telegram chat_id
+
 > First, You need to find telegram chat_id for auto send message to a group or channel.
 1. Add the bot to the channel or group you want.
 2. Send a message on the channel or group you choosed.
