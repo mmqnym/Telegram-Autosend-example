@@ -20,4 +20,4 @@ bot.sendMessage( chat_id = <You found chat_id>, text = msg, parse_mode = 'markdo
 ```
 
 ## License
-MIT
+[BSD 2-Clause](https://github.com/0xmimiQ/telegram_autosend/blob/main/LICENSE)
