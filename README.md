@@ -15,7 +15,7 @@ Display how to auto send message in telegram bot
 4. Find `id` in the `chat` block, which is the chat_id we are looking for.
 
 > Paste the chat_id to complete the auto send function.
-``` sh
+``` python
 bot.sendMessage( chat_id = <You found chat_id>, text = msg, parse_mode = 'markdown' )
 ```
 
