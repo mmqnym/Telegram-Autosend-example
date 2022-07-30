@@ -1,4 +1,4 @@
-# telegram_autosend
+# Telegram auto send message
 Display how to auto send message in telegram bot
 
 ## Reference
