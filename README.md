@@ -16,8 +16,8 @@ bot.sendMessage( chat_id = <You found chat_id>, text = msg, parse_mode = 'markdo
 
 ## Reference
 
-- #####[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-- #####[schedule.py](https://schedule.readthedocs.io/en/stable/)
+- ##### [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+- ##### [schedule.py](https://schedule.readthedocs.io/en/stable/)
 
 
 ## License
